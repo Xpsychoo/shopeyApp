@@ -596,6 +596,34 @@
   text-decoration: none;
 }
 
+@media only screen and (max-width: 700px) {
+  .main-login {
+    max-width: 100%;
+    flex-direction: column;
+  }
+  .main-login .cpointer.userInfoMessage {
+    width: auto;
+  }
+  .main-login .userInfoMessage {
+    font-size: 14px;
+    width: 90%;
+    padding: 10px 20px;
+  }
+  .main-login .brandName {
+    padding-top: 8em;
+    width: 100%;
+    text-align: center;
+  }
+  .main-login .brandName .img-fluid {
+    max-width: 20%;
+  }
+  .main-login .loginBox {
+    width: 90%;
+  }
+  .main-login .loginBox .textBox {
+    text-align: center;
+  }
+}
 @media only screen and (max-width: 1000px) {
   .Main_wrapper .main_content .home_row .CardBox {
     min-height: 13em;

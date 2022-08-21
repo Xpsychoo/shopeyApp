@@ -385,6 +385,7 @@
 
 }
 
+
 .CheckoutContent {
     color: var(--color-white);
 
@@ -711,7 +712,37 @@
         text-decoration: none;
     }
 }
+@media only screen and (max-width: 700px) {
+    .main-login{
+        max-width: 100%;
+        flex-direction: column;
+        
+        .cpointer.userInfoMessage{
+            width: auto;
+        }
+        .userInfoMessage {
+            font-size: 14px;
+            width: 90%;
+            padding: 10px 20px;
+        }
 
+        .brandName{
+            padding-top: 8em;
+            width: 100%;
+            text-align: center;
+
+            .img-fluid{
+                max-width: 20%;
+            }
+        }
+        .loginBox{
+            width: 90%;
+            .textBox{
+                text-align: center;
+            }
+        }
+    }
+}
 @media only screen and (max-width: 1000px) {
     .Main_wrapper .main_content .home_row .CardBox {
         min-height: 13em;
