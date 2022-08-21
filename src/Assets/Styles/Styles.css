@@ -623,6 +623,45 @@
   .main-login .loginBox .textBox {
     text-align: center;
   }
+  .CheckoutContent .content {
+    width: 90%;
+  }
+  .CheckoutContent .name {
+    font-size: 10px;
+  }
+  .CheckoutContent .price {
+    font-size: 12px;
+  }
+  .Main_wrapper .main_content .chkOutbX h3.text-light {
+    font-size: 15px;
+  }
+  .CheckoutContent .content .ChckItem .countBox {
+    font-size: 10px;
+  }
+  .CheckoutContent .content .subtotal .totalHead {
+    font-size: 15px;
+  }
+  .CheckoutContent .payment__info {
+    display: block;
+  }
+  .CheckoutContent .payment__types {
+    flex-direction: column;
+  }
+  .CheckoutContent .content .subtotal .totalHead {
+    text-align: left;
+  }
+  .CheckoutContent .payment__type {
+    padding: 10px;
+    margin: 5px 0px;
+    margin-left: 0px !important;
+  }
+  .CheckoutContent .ddl {
+    width: 48%;
+    margin-right: 5px;
+  }
+  .CheckoutContent .field {
+    width: 100% !important;
+  }
 }
 @media only screen and (max-width: 1000px) {
   .Main_wrapper .main_content .home_row .CardBox {
