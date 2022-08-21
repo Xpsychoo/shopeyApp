@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/shopeyApp/static/css/main.8f6a65d5.css",
-    "main.js": "/shopeyApp/static/js/main.2b9ea575.js",
+    "main.js": "/shopeyApp/static/js/main.db173ae9.js",
     "static/js/787.3bed6155.chunk.js": "/shopeyApp/static/js/787.3bed6155.chunk.js",
     "static/media/Logo_Main.png": "/shopeyApp/static/media/Logo_Main.f0f8b27f2d7b066762e9.png",
     "index.html": "/shopeyApp/index.html",
     "main.8f6a65d5.css.map": "/shopeyApp/static/css/main.8f6a65d5.css.map",
-    "main.2b9ea575.js.map": "/shopeyApp/static/js/main.2b9ea575.js.map",
+    "main.db173ae9.js.map": "/shopeyApp/static/js/main.db173ae9.js.map",
     "787.3bed6155.chunk.js.map": "/shopeyApp/static/js/787.3bed6155.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8f6a65d5.css",
-    "static/js/main.2b9ea575.js"
+    "static/js/main.db173ae9.js"
   ]
 }
