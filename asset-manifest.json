@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/shopeyApp/static/css/main.b0a36338.css",
-    "main.js": "/shopeyApp/static/js/main.4d1049d4.js",
+    "main.css": "/shopeyApp/static/css/main.5d9312c5.css",
+    "main.js": "/shopeyApp/static/js/main.b232841a.js",
     "static/js/787.3bed6155.chunk.js": "/shopeyApp/static/js/787.3bed6155.chunk.js",
+    "static/media/laughing-minions.webp": "/shopeyApp/static/media/laughing-minions.c4c486c4bdc2959e25ba.webp",
     "static/media/emoji-left.gif": "/shopeyApp/static/media/emoji-left.f47333e90d0e61d3b503.gif",
     "static/media/box2-emoji.gif": "/shopeyApp/static/media/box2-emoji.e3e5520a8d2475595a54.gif",
     "static/media/Logo_Main.png": "/shopeyApp/static/media/Logo_Main.f0f8b27f2d7b066762e9.png",
     "index.html": "/shopeyApp/index.html",
-    "main.b0a36338.css.map": "/shopeyApp/static/css/main.b0a36338.css.map",
-    "main.4d1049d4.js.map": "/shopeyApp/static/js/main.4d1049d4.js.map",
+    "main.5d9312c5.css.map": "/shopeyApp/static/css/main.5d9312c5.css.map",
+    "main.b232841a.js.map": "/shopeyApp/static/js/main.b232841a.js.map",
     "787.3bed6155.chunk.js.map": "/shopeyApp/static/js/787.3bed6155.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0a36338.css",
-    "static/js/main.4d1049d4.js"
+    "static/css/main.5d9312c5.css",
+    "static/js/main.b232841a.js"
   ]
 }
