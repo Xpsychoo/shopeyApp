@@ -8,7 +8,7 @@ const SuccessMessage = () => {
                 <h3>Congratulations</h3>
                 <h3>Your Order was SuccessFull</h3>
                 <p>
-                    <Link className='linkaddrs' to='/'>Go Back To Home Page</Link>
+                    <Link className='linkaddrs' to='/shopeyApp'>Go Back To Home Page</Link>
                 </p>
             </div>
         </div>

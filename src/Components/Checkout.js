@@ -213,7 +213,7 @@ const Checkout = () => {
                                     <Link to='/cart' className="BasicLink">
                                         Go Back
                                     </Link>
-                                    <Link to='/successMessage' onClick={resetCart} className="btnMain">
+                                    <Link to='/SuccessMessage' onClick={resetCart} className="btnMain">
                                         Place your Order
                                         <i className="fas angleRight fa-angle-right" />
                                     </Link>
